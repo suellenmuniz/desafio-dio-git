@@ -1,2 +1,3 @@
-# desafio-dio-git
-Projeto dio git/github
+# Projeto git/github
+
+Organizando meus projetos!
